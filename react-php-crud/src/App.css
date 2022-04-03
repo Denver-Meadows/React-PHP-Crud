@@ -10,8 +10,20 @@ h1 {
   text-align: center;
 }
 
+form {
+  text-align: center;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
 nav_ul {
   list-style: none;
+}
+
+button {
+  margin-left: 160px;
 }
 
 nav ul li {
